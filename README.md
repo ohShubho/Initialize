@@ -27,7 +27,7 @@ pip install PyGithub <br />
 
 5. Generate a personal access token (PAT) from GitHub. The token should have the necessary permissions to create repositories.
 
-6. Open the `initialize.py` script in a text editor and replace the `GITHUB_TOKEN` variable with your generated PAT.
+6. Open the `initialize.py` script in a text editor and replace the `YOUR_PERSONAL_ACCESS_TOKEN` variable with your generated PAT.
 
 7. Save the changes and return to the terminal or command prompt.
 

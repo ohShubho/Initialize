@@ -29,4 +29,4 @@ pip install python
 8. Run the script with the desired repository name as the argument. For example:
 python initialize.py my-repo
 
-##Feel free to customize the script to suit your specific needs, such as adding more files or modifying the initial commit.
+## Feel free to customize the script to suit your specific needs, such as adding more files or modifying the initial commit.

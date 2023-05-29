@@ -5,6 +5,12 @@
 The script will create a new folder with the repository name in your specified projects directory. It will initialize a Git repository, add a README file, and make an initial commit.
 Additionally, the script will create a new repository on GitHub using the provided repository name and push the initial commit to the remote repository.
 
+## Requirements
+
+- Python 
+- PyGithub library 
+- Git 
+
 ## Usage
 
 Follow these steps to use the script:
@@ -17,8 +23,7 @@ Follow these steps to use the script:
 
 4. Install the required dependencies by running the following command: <br />
 pip install PyGithub <br />
-pip install git <br />
-pip install python
+
 
 5. Generate a personal access token (PAT) from GitHub. The token should have the necessary permissions to create repositories.
 

@@ -15,9 +15,9 @@ Follow these steps to use the script:
 
 3. Open a terminal or command prompt and navigate to the directory where you saved the script.
 
-4. Install the required dependencies by running the following command:
-pip install PyGithub
-pip install git
+4. Install the required dependencies by running the following command:__
+pip install PyGithub__
+pip install git__
 pip install python
 
 5. Generate a personal access token (PAT) from GitHub. The token should have the necessary permissions to create repositories.

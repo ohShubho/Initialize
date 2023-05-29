@@ -29,9 +29,11 @@ pip install PyGithub <br />
 
 6. Open the `initialize.py` script in a text editor and replace the `YOUR_PERSONAL_ACCESS_TOKEN` variable with your generated PAT.
 
-7. Save the changes and return to the terminal or command prompt.
+7. Replace the `YOUR_PROJECTS_DIRECTORY` and the `YOUR_USERNAME` parts of the script with your own respective path and username. 
 
-8. Run the script with the desired repository name as the argument. For example:
+8. Save the changes and return to the terminal or command prompt.
+
+9. Run the script with the desired repository name as the argument. For example:
 python initialize.py my-repo
 
-## Feel free to customize the script to suit your specific needs, such as adding more files or modifying the initial commit.
+### Feel free to customize the script to suit your specific needs, such as adding more files or modifying the initial commit.

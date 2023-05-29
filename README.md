@@ -1,6 +1,4 @@
-# Initialize
-
-# GitHub Repository Automation Script
+# Initialize - A GitHub Repository Automation Script
 
 The script will create a new folder with the repository name in your specified projects directory. It will initialize a Git repository, add a README file, and make an initial commit.
 Additionally, the script will create a new repository on GitHub using the provided repository name and push the initial commit to the remote repository.
